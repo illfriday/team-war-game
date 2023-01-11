@@ -1,5 +1,4 @@
-## This is a fork of the main repository at: https://github.com/Cmmh1101/amanda_carla_will_aug_21
-
+## This is a fork of the main repository at: https://github.com/Cmmh1101/team-war-game
 ## Quadruple war game By:
 
 ## Carla Montano 
